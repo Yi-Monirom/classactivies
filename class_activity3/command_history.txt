@@ -1,0 +1,784 @@
+    1  sudo apt update && apt upgrade -y
+    2  tree
+    3  sudo apt install tree
+    4  tree
+    5  touch hello.txt
+    6  nano hello.txt
+    7  cat hello.txt
+    8  exit
+    9  chrome
+   10  tree
+   11  rm -r hello.txt
+   12  ls
+   13  sudo su
+   14  clear
+   15  ls
+   16  cd class_activity1
+   17  ./syscall1
+   18  ./syscall
+   19  ls
+   20  nano syscall1.c
+   21  nano Copyfilesyscall.c
+   22  ls
+   23  ls 
+   24  touch Copyfilesyscall.c
+   25  pwd
+   26  sudo su
+   27  cd ..
+   28  sudo nano /etc/environment
+   29  [200~source /etc/environment
+   30  source /etc/environment
+   31  echo $JAVA_HOME
+   32  [200~wget https://jflex.de/releases/jflex-1.9.1.tar.gz
+   33  ~wget https://jflex.de/releases/jflex-1.9.1.tar.gz
+   34  wget https://jflex.de/releases/jflex-1.9.1.tar.gz
+   35  java --version
+   36  clear
+   37  curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+   38  cd testing
+   39  [200~jflex TestLexer.flex
+   40  jflex TestLexer.flex
+   41  javac TestLexer.java
+   42  java TestLexer
+   43  www
+   44  javac TestLexer.java
+   45  java TestLexer
+   46  nano input.txtja
+   47  javac TestLexer.java
+   48  java TestLexerva input.txt
+   49  jflex TestLexer.flex~
+   50  jflex TestLexer.flex
+   51  javac TestLexer.java
+   52  java TestLexer
+   53  clear
+   54  jflex TestLexer.flex
+   55  javac TestLexer.java 
+   56  java TestLexer input.txt
+   57  javac TestLexer.java 
+   58  java TestLexer input.txt
+   59  git clone https://github.com/SokhomPanha/TP-Internet-Programming.git~
+   60  git clone https://github.com/SokhomPanha/TP-Internet-Programming.git TP2
+   61  cd TP2
+   62  npm install
+   63  sudo ln -s $(pwd)/bin/jflex /usr/local/bin/jflex
+   64  jflex --version
+   65  git --version
+   66  apt install git
+   67  cd
+   68  apt install git
+   69  [200~sudo apt update
+   70  sudo apt install git -y
+   71  sudo apt update
+   72  git --version
+   73  git config global user.name "Sokhom Panha" 
+   74  git config --global user.name "Sokhom Panha" 
+   75  git config --global user.email "sokhompanha70@gmail.com" 
+   76  [200~git config --list
+   77  git config --list
+   78  JFlex --version
+   79  jflex --version
+   80  sudo apt install flameshot -y
+   81  flameshot gui
+   82  flameshot full -p ~/Pictures
+   83  ./mvnw spring-boot:run
+   84  chmod +x mvnw
+   85  ./mvnw spring-boot:run
+   86  cd downlead
+   87  cd downloeld
+   88  cd Downloeld
+   89  cd Downloalds
+   90  cd ~/Downloalds
+   91  clear
+   92  cd ~/Downloads
+   93  unzip demo.zip -d ~/Documents
+   94  code ~/Documents/demo
+   95  sudo apt install flameshot -y
+   96  cd ..
+   97  ls
+   98  cd Document
+   99  cd ~/Documents
+  100  ls
+  101  cd Year4 S-1 Lunux
+  102  cd ~/'Year4 S-1 Lunux'
+  103  cd ~/'Year4_S-1-Lunux'
+  104  cd ~/Year4 _S-1_Lunux
+  105  cd ~/Year4_S-1_Lunux
+  106  cd Year4_S-1_Lunux
+  107  ls
+  108  . code
+  109  node --version
+  110  nodejs --version
+  111  sudo apt install nodejs
+  112  nodejs --version
+  113  cd /home/sudoku/Documents/Year4_S-1_Lunux/Internet Programming/TP2
+  114  . code
+  115  cd ..
+  116  . code
+  117  npm install
+  118  sudo apt install npm
+  119  npm install
+  120  npm run dev
+  121  cd Documents/Year4_S-1_Lunux/Internet Programming/TP2
+  122  cd Documents
+  123  cd Yrea4_S-1_Lunux
+  124  cd Year4_S-1_Lunux
+  125  cd Internet Programming
+  126  mkidr Lab3
+  127  mkdir Lab3
+  128  cd Lab3
+  129  mkdir CopyingFolder
+  130  cd CopyingFolder
+  131  touch copied.txt
+  132  cd ..
+  133  mkdir Documents
+  134  mkdir Desktop
+  135  cp CopyingFolder/copied.txt ~/Documents/
+  136  tree
+  137  cd Documents
+  138  tree
+  139  cd ..
+  140  cp CopyingFolder/copied.txt ~/Documents/
+  141  cd CopyingFolder
+  142  tree
+  143  cd ..
+  144  cd Documents
+  145  tree
+  146  cd ..
+  147  cp copied.txt ./Documents
+  148  ls
+  149  cd CopyingFolder
+  150  cp copied.txt ./Documents
+  151  cd ..
+  152  ls
+  153  cd Documents
+  154  ls
+  155  tree
+  156  cd ..
+  157  tree
+  158  cd CopyingFolder
+  159  cp copied.txt ../../Documents
+  160  cd ..
+  161  tree
+  162  cp copied.txt Documents
+  163  cd CopyingFolder/
+  164  cp copied.txt Documents
+  165  cd ..
+  166  tree
+  167  cp CopyingFolder/copied.txt ~/Documents/
+  168  tree
+  169  ls
+  170  cd CopyingFolder/
+  171  rm Documents
+  172  ls
+  173  cd ..
+  174  cp -r CopyingFolder /Documents
+  175  tree
+  176  cd CopyingFolder/
+  177  cp copied.txt ~/Lab3/Documents
+  178  cp copied.txt ../Documents
+  179  cd ..
+  180  tree
+  181  cd
+  182  jflex
+  183  jflex testNumOrString.flex
+  184  cd Ex01.jflex
+  185  cd Ex01
+  186  jflix Ex01.jflex 
+  187  jflex Ex01.jflex 
+  188  jflex Ex01.jflex
+  189  javac testNumOrString.java
+  190  java testNumOrString < text.txt
+  191  java testNumOrString <checkInput.txt
+  192  clear
+  193  jflex Ex01.jflex
+  194  javac testNumOrString.java
+  195  clear
+  196  jflex Ex01.jflex 
+  197  javac testNumOrString.java 
+  198  java testNumOrString checkInput.txt 
+  199  jflex Ex01.jflex 
+  200  javac testNumOrString.java 
+  201  java testNumOrString checkInput.txt 
+  202  jflex Ex01.jflex 
+  203  javac testNumOrString.java 
+  204  java testNumOrString checkInput.txt 
+  205  jflex Ex01.jflex 
+  206  javac testNumOrString.java 
+  207  java testNumOrString checkInput.txt 
+  208  clear
+  209  jflex Ex01.jflex 
+  210  javac testEmailOrNotEmail.java 
+  211  jflex Ex01.jflex 
+  212  javac testEmailOrNotEmail.java 
+  213  java testEmailOrNotEmail.java checkInput.txt 
+  214  clear
+  215  jflex Ex01.jflex 
+  216  javac kak.java 
+  217  java kak checkInput.txt 
+  218  jflex Ex01.jflex 
+  219  javac kak.java 
+  220  java kak checkInput.txt 
+  221  jflex Ex01.jflex 
+  222  java kak checkInput.txt 
+  223  jflex Ex01.jflex 
+  224  javac kak.java 
+  225  java kak checkInput.txt 
+  226  cd ..
+  227  jflex
+  228  npm install
+  229  npm run dev
+  230  npm install
+  231  npm run dev
+  232  mkdir TD
+  233  cd TD
+  234  git clone https://github.com/thavorac/gic2023/tree/todo
+  235  git clone https://github.com/thavorac/gic2023
+  236  cd tod
+  237  cd todo
+  238  ls
+  239  cd gic2023/
+  240  ls
+  241  git checkout todo
+  242  cd todo
+  243  code .
+  244  cd Documents/
+  245  mkdir Internet_Programming
+  246  cd Internet_Programming/
+  247  mkdir Todo
+  248  cd Todo/
+  249  npm create vue@latest
+  250  cd todolists
+  251  npm install
+  252  code .
+  253  CD ..
+  254  cd ..
+  255  rm -d todolists/
+  256  rm -r todolists/
+  257  tree
+  258  ls
+  259  npm --version
+  260  npm create vue@latest
+  261  cd todolists
+  262  npm install
+  263  npm run dev
+  264  code .
+  265  cd ..
+  266  cd 
+  267  code .
+  268  sudo apt install libreoffice
+  269  sudo snap install onlyoffice-desktopeditors
+  270  code .
+  271  mysql --version
+  272  cd
+  273  mysql --version
+  274  sudo apt update
+  275  sudo apt upgrade -y
+  276  [200~sudo mysql_secure_installation
+  277  sudo mysql_secure_installation
+  278  sudo apt install mysql-server -y
+  279  sudo mysql_secure_installation
+  280  sudo mysql
+  281  clear
+  282  sudo mysql
+  283  no
+  284  mysql -u root -p
+  285  sudo mysql
+  286  mysql -u root -p
+  287  git clone puikinsh.github.io/TailPanel/
+  288  gcc --version
+  289  cd Documents/
+  290  mkdir class_activity2
+  291  cd class_activity2/
+  292  ;l.i,kmy jnvd
+  293  nano
+  294  tounch forkChild.c
+  295  touch forkChild.c
+  296  nano forkChild.c 
+  297  gcc -o forkchild forkchild.c
+  298  gcc -o forkchild forkChild.c
+  299  ./forkchild > result_forkchild.txt
+  300  history | tail -n 15 > command_used_forkchild.txt
+  301  nano command_used_forkchild.txt 
+  302  gcc -o forkchild forkChild.c
+  303  cat forkChild.c
+  304  gcc forkChild.c -o forkchild.exe
+  305  nano result_forkchild.txt 
+  306  htop
+  307  cd
+  308  sudu apt install htop -y
+  309  sudo apt install htop -y
+  310  htop
+  311  ls
+  312  htop
+  313  gcc ./forkchild forkChild.c
+  314  gcc -o forkchild forkChild.c
+  315  htop
+  316  gcc -o forkchild forkChild.c
+  317  ./forkchild > result_forkchild.txt
+  318  history | tail -n 15 > command_used_forkchild.txt
+  319  ls
+  320  rm forkchild
+  321  gcc -o forkchild forkChild.c
+  322  ./forkchild
+  323  mkdir Lab3
+  324  cd Lab3/
+  325  mkdir CopyingFolder
+  326  mkdir Documents
+  327  mkdir Desktop
+  328  cd CopyingFolder/
+  329  touch copied.txt
+  330  cp copied.txt ../Documents/
+  331  cd ..
+  332  cd Documents/
+  333  touch one.txt two.txt three.txt four.txt five.txt
+  334  cd one.txt two.txt three.txt four.txt five.txt ../CopyingFolder/
+  335  cp one.txt two.txt three.txt four.txt five.txt ../CopyingFolder/
+  336  cd ..
+  337  cp -r CopyingFolder ~/Desktop/
+  338  tree
+  339  cp -r CopyingFolder/ Desktop/
+  340  tree
+  341  cd Documents/
+  342  touch {one,two,three,four,five}_document.txt
+  343  nano one_document.txt 
+  344  nano two_document.txt 
+  345  nano three_document.txt 
+  346  nano four_document.txt 
+  347  nano five_document.txt 
+  348  mv one_document.txt document_un.txt
+  349  mv two_document.txt document_deux.txt
+  350  mv three_document.txt document_trois.txt
+  351  mv four_document.txt document_quatre.txt
+  352  mv five_document.txt document_cinque.txt
+  353  cd
+  354  cd Lab3
+  355  mkdir MoveFolder
+  356  mv document_*.txt ../MoveFolder/
+  357  cd Documents/
+  358  mv document_*.txt ../MoveFolder/
+  359  cd
+  360  tree
+  361  cd Lab3
+  362  tree
+  363  cd Documents/
+  364  mkdir FrenchFolder
+  365  rv FrenchFolder
+  366  rm FrenchFolder
+  367  ls
+  368  rm -r FrenchFolder
+  369  cd ..
+  370  cd Desktop/
+  371  mkdir FrenchFolder
+  372  cd ..
+  373  mv MoveFolder/* ~/Desktop/FrenchFolder/
+  374  tree
+  375  cd
+  376  cd Desktop/
+  377  ls 
+  378  cd
+  379  mv /home/sudoku/Desktop/FrenchFolder/* /home/sudoku/Lab3/MoveFolder/
+  380  cd Lab3
+  381  tree
+  382  mv /home/sudoku/Lab3/MoveFolder/* /home/sudoku/Lab3/Desktop/FrenchFolder/
+  383  tree
+  384  tree ~/Lab3 > ~/Lab3/tree_structure_before_remove.txt
+  385  tree
+  386  rm ~/Desktop/FrenchFolder/document_deux.txt
+  387  rm ~/Lab3/Desktop/FrenchFolder/document_deux.txt
+  388  cd Documents/
+  389  mkdir EmptyFolder
+  390  cd EmptyFolder/
+  391  touch deletefile.txt
+  392  mkdir DeleteFolder
+  393  cd ..
+  394  rmdir ~/Documents/EmptyFolder/DeleteFolder
+  395  rmdir ~/Lab3/Documents/EmptyFolder/DeleteFolder
+  396  rm -r ~/Lab3/Documents/EmptyFolder
+  397  rm ~/Lab3/Desktop/FrenchFolder/*.txt
+  398  history > ~/Lab3/wildcardex1_command_history.txt
+  399  rm ~/Lab3/wildcardex1_command_history.txt
+  400  tree ~ > ~/Lab3/tree_structure_after_remove.txt
+  401  history > -n 20 ~/Lab3/wildcardex1_command_history.txt
+  402  tree
+  403  history | tail -n 30 > ~/Lab3/wildcardex1_command_history.txt
+  404  nano wildcardex1_command_history.txt 
+  405  rm wildcardex1_command_history.txt 
+  406  history > ~/Lab3/wildcardex1_command_history.txt
+  407  nano wildcardex1_command_history.txt 
+  408  rm wildcardex1_command_history.txt 
+  409  history | tail -n 90 > ~/Lab3/wildcardex1_command_history.txt
+  410  mkdir wildcard_lab
+  411  cd wildcard_lab/
+  412  touch a.txt b.txt ab.txt abc.txt xyz.log data.csv
+  413  ls *.txt
+  414  ls *.log
+  415  ls ?.txt
+  416  cd ..
+  417  mksir backup
+  418  mkdir backup
+  419  cd wildcard_lab/
+  420  cp *.txt ~/Lab3/backup/
+  421  rm ?.*
+  422  rm ~/Lab3/backup/*
+  423  touch file{1..3}.txt
+  424  [200~touch [123]file.txt
+  425  touch [123]file.txt
+  426  history | -n 40 ~/Lab3/wildcardex3_command_history.txt
+  427  history | -n 40> ~/Lab3/wildcardex3_command_history.txt
+  428  history |tail -n 40> ~/Lab3/wildcardex3_command_history.txt
+  429  history > ~/Lab3/wildcardex3_command_history.txt
+  430  mkdir ~/Lab3/logs
+  431  cd ~/Lab3/logs
+  432  touch log20230101.txt log20230102.txt log20230103.txt log20230104.txt log20230105.txt
+  433  ls log202301*.txt
+  434  ls log2023010[135].txt
+  435  history > ~/Lab3/wildcardex3_command_history.txt
+  436  mkdir ~/Lab3/link_lab
+  437  cd ~/Lab3/link_lab
+  438  echo "This is the original file." > original.txt
+  439  ln -s original.txt symlink.txt
+  440  ln original.txt hardlink.txt
+  441  echo "More text" >> original.txt
+  442  cat symlink.txt
+  443  cat hardlink.txt
+  444  ln -s nofile.txt broken_symlink.txt
+  445  history > ~/Lab3/wildcardex4_command_history.txt
+  446  cd ..
+  447  tree
+  448  mkdir Lab3
+  449  cd Lab3/
+  450  mkdir CopyingFolder
+  451  mkdir Documents
+  452  mkdir Desktop
+  453  touch copied.txt
+  454  rm copied.txt
+  455  cd CopyingFolder/
+  456  touch copied.txt
+  457  cd ..
+  458  cd -r CopyingFolder/ Documents/
+  459  cp -r CopyingFolder/ Documents/
+  460  cd Documents/
+  461  rm CopyingFolder/
+  462  cd CopyingFolder/
+  463  cp copied.txt ../Documents
+  464  cd
+  465  tree
+  466  clear
+  467  cd Documents/
+  468  mkdir Lab3
+  469  mkdir CopyingFoldder
+  470  mkdir Documents
+  471  mkdir Desktop
+  472  cd CopyingFoldder/
+  473  touch copied.txt
+  474  cd ..
+  475  clear
+  476  mkdir Lab3
+  477  cd Lab3/
+  478  mkdir CopyingFolder
+  479  mkdir Documents
+  480  mkdir Desktop
+  481  cd CopyingFolder/
+  482  touch copied.txt
+  483  cd ..
+  484  cp CopyingFolder/
+  485  cd CopyingFolder/
+  486  cp copied.txt ../Documents/
+  487  cd ..
+  488  cd Documents/
+  489  touch one.txt two.txt three.txt four.txt five.txt
+  490  cd ..
+  491  cd Documents/
+  492  cp one.txt two.txt three.txt four.txt five.txt ../CopyingFolder/
+  493  cd ..
+  494  cp -r ~/lab3/CopyingFolder ~/Desktop/ 
+  495  cp -r ~/CopyingFolder ~/Desktop/ 
+  496  cp -r /CopyingFolder /Desktop/ 
+  497  cp -r CopyingFolder/ Desktop/
+  498  tree
+  499  cd CopyingFolder/
+  500  cd ..
+  501  cd Documents/
+  502  touch {one,two,three,four,five}_document.txt
+  503  ls
+  504  nano one_document.txt 
+  505  nano two_document.txt 
+  506  nano three_document.txt 
+  507  nano four_document.txt 
+  508  nano five_document.txt 
+  509  mv one_document.txt document_un.txt
+  510  mv two_document.txt  document_deux.txt
+  511  mv three_document.txt  document_trois.txt
+  512  mv four_document.txt  document_quatre.txt
+  513  mv five_document.txt  document_cinque.txt
+  514  cd ..
+  515  tree
+  516  mkdir MoveFolder
+  517  cd Documents/
+  518  mv document_*.txt ~/lab3/MoveFolder/
+  519  mv document_*.txt ../MoveFolder/
+  520  cd ..
+  521  tree
+  522  mkdir ~/Desktop/FrenchFolder
+  523  mv MoveFolder/* ~/Desktop/FrenchFolder/
+  524  tree ~ > ~/lab3/tree_structure_before_remove.txt
+  525  tree ~ > ~/Lab3/tree_structure_before_remove.txt
+  526  tree ~ > ~/Documents/Lab3/tree_structure_before_remove.txt
+  527  tree
+  528  mkdir ~/Desktop/FrenchFolder
+  529  cd Desktop/
+  530  ls
+  531  cd ..
+  532  ls
+  533  cd ~/Desktop/FrenchFolder
+  534  ls
+  535  tree
+  536  clear
+  537  sodo apt pg admin -y
+  538  sudo apt pg admin -y
+  539  sudo apt pgadmin -y
+  540  [0p9l8iy64r
+  541  jflex DateLexer.jflex 
+  542  jaavac DateLexer.java
+  543  javac DateLexer.java
+  544  java DateLexer DataText.txt
+  545  java -jar jflex-1.9.1.jar DateLexer.flex
+  546  jflex --version
+  547  java -jar jflex-1.9.1.jar DateLexer.jflex
+  548  jflex DateLexer.jflex 
+  549  javac DateLexer.java 
+  550  jflex DateLexer.flex 
+  551  javac DateLexer.java 
+  552  jflex DateLexer.jflex 
+  553  java DateLexer DateText.txt 
+  554  jflex DateLexer.jflex
+  555  javac DateLexer.java
+  556  jflex DateLexer.jflex
+  557  ls
+  558  jflex DateLexer.flex
+  559  javac DateLexer.java
+  560  java DateLexer DateText.txt 
+  561  cd
+  562  cd Documents/
+  563  test.html
+  564  touch test.html
+  565  code .
+  566  cd
+  567  cd Lab3
+  568  tree
+  569  nano wildcardex1_command_history.txt 
+  570  cd
+  571  Lab3
+  572  cd Lab3
+  573  tree
+  574  ssh gic-sokhom-panha@192.168.23.23
+  575  cd ..
+  576  ssh gic-sokhom-panha@192.168.23.23
+  577  ssh gic-sokhom-panha@192.168.23.33
+  578  scp -r Lab3 gic-sokhom-panha@192.168.23.33:/home/gic-sokhom-panha
+  579  ssh gic-sokhom-panha@192.168.23.33
+  580  sudo apt install filezilla -y
+  581  sudo add-apt-repository ppa:sicklylife/filezilla
+  582  sudo apt update
+  583  sudo apt install filezilla -y
+  584  git --version
+  585  git init
+  586  git branch -m main
+  587  git add .
+  588  git remote origin https://github.com/SokhomPanha/OS.git
+  589  git remote add origin https://github.com/SokhomPanha/OS.git
+  590  git remote -v
+  591  git push -u origin main
+  592  git branch
+  593  cd Lab3
+  594  [200~git init
+  595  git branch -m main
+  596  git init
+  597  git branch -m main
+  598  git add .
+  599  git commit -m "Initial commit"
+  600  git remote add origin https://github.com/SokhomPanha/OS.git
+  601  git push -u origin main
+  602  cd 
+  603  ls ~/.ssh
+  604  npm install
+  605  npm run dev
+  606  npm create vue@lastest
+  607  npm create-vue@lastest
+  608  npm help
+  609  npm create-vue@latest
+  610  npm create vue@latest
+  611  cd Navigation/
+  612  npm install
+  613  code .
+  614  cd
+  615  mv Navigation/ Router
+  616  cd Router/
+  617  code
+  618  code .
+  619  git stutus
+  620  git stutue
+  621  git remote -v
+  622  git checkout Tp2
+  623  cd TP-Internet-Programming/
+  624  git checkout Tp2
+  625  git checkout Tp02
+  626  git checkout TP02
+  627  cd ..
+  628  git clone https://github.com/thavorac/gic2024.git
+  629  cd gic2024/
+  630  git checkout simple_backend
+  631  npm install
+  632  npm run start
+  633  cd TP-Internet-Programming/
+  634  npm install
+  635  npm run dev
+  636  npm install axios
+  637  npm run dev
+  638  git init
+  639  git branch
+  640  git add .
+  641  git commit -m "Update with Backend" 
+  642  git push add origin TP02
+  643  git push origin TP02
+  644  git clone https://github.com/SokhomPanha/TP-Internet-Programming.git
+  645  code .
+  646  posment --version
+  647  cd
+  648  posment --version
+  649  postman --version
+  650  sudo snap install postman~
+  651  sudo snap install postman
+  652  ls
+  653  whoami
+  654  su root
+  655  ls
+  656  cd Downloads/
+  657  ls
+  658  cd ../
+  659  ls
+  660  cd Videos/
+  661  ls
+  662  touch hello.txt
+  663  ls
+  664  cd ../
+  665  rm -rf Videos/*
+  666  ls
+  667  ls Videos/
+  668  clear
+  669  which apt
+  670  sudo apt install fish
+  671  fish
+  672  ls
+  673  sudo apt install fastfetch
+  674  fastfetch
+  675  exit 0
+  676  sudo poweroff
+  677  git pull
+  678  npm run start
+  679  npm run dev
+  680  myaql -u root -p
+  681  mysql -u root -p
+  682  sudo apt install facebook -y
+  683  jav --version
+  684  java --version
+  685  java -version
+  686  cd demo/
+  687  code .
+  688  . codw
+  689  . code
+  690  java --version
+  691  mvn spring-boot:run
+  692  cd /home/sudoku/Documents/Year4_S-1_Linux/Sof/database/demo
+  693  mvn clean install
+  694  sudo apt install maven~
+  695  cd
+  696  java --version
+  697  node --version
+  698  ........... cd
+  699  ../ cd
+  700  cd ~/Documents/Year4_S-1_Linux/Sof/database$
+  701  cd /Documents/Year4_S-1_Linux/Sof/database$
+  702  cd /Documents/Year4_S-1_Linux/Sof/database
+  703  cd Documents/Year4_S-1_Linux/Sof/database
+  704  cd demo
+  705  code .
+  706  cd documents
+  707  code .
+  708  sudo apt update
+  709  code .
+  710  cd ..
+  711  mkdir TP04
+  712  code .
+  713  ls
+  714  cd ..
+  715  cd 
+  716  cd Documents/
+  717  mkdir class_activity3
+  718  cd class_activity3
+  719  mkdir SHM-IPC
+  720  cd SHM-IPC/
+  721  nano shm-producer.c
+  722  nano shm-consumer.c
+  723  gcc -o shm-producer shm-producer.c
+  724  gcc -o shm-consumer shm-consumer.c
+  725  ./shm-producer
+  726  ./shm-consumer > result-shm-ipc.txt
+  727  nano shm-consumer.c
+  728  ls
+  729  nano shm-consumer.c
+  730  nano shm-producer.c
+  731  nano shm-consumer.c
+  732  nano result-shm-ipc.txt 
+  733  gcc -o shm-consumer shm-consumer.c
+  734  gcc -o shm-producer shm-producer.c
+  735  gcc -o shm-consumer shm-consumer.c
+  736  ./shm-producer
+  737  ./shm-consumer > result-shm-ipc.txt
+  738  ls
+  739  nano shm-consumer
+  740  nano shm-consumer.c
+  741  nano shm-producer.c
+  742  nano shm-consumer.c
+  743  gcc -o shm-producer shm-producer.c
+  744  gcc -o shm-consumer shm-consumer.c
+  745  ./shm-producer
+  746  ./shm-consumer > result-shm-ipc.txt
+  747  cat result-shm-ipc.txt 
+  748  cd ..
+  749  mkdir MQ-IPC
+  750  cd MQ-IPC/
+  751  nano sender.c
+  752  nano receiver.c
+  753  nano common.h
+  754  gcc -o sender sender.c
+  755  gcc -o receiver receiver.c 
+  756  ./sender
+  757  ./receiver 
+  758  ./receiver > result-mq-ipc.txt
+  759  ls
+  760  ./receiver > result-mq-ipc.txt 
+  761  # run receiver in background, redirect output
+  762  ./receiver > result-mq-ipc.txt &
+  763  # run sender
+  764  ./sender
+  765  ./receiver > result-mq-ipc.txt &
+  766  ./receiver > result-mq-ipc.txt 
+  767  cat result-mq-ipc.txt 
+  768  ./sender
+  769  ./receiver > result-mq-ipc.txt 
+  770  cat result-mq-ipc.txt 
+  771  ./sender
+  772  ./receiver
+  773  ./sender
+  774  ./receiver > result-mq-ipc.txt 
+  775  cat result-mq-ipc.txt 
+  776  cd ..
+  777  tree
+  778  history | tail n - 50 > command_history.txt
+  779  history | tail n-50 > command_history.txt
+  780  history | tail -50 > command_history.txt
+  781  nano command_history.txt 
+  782  history | tail -60 > command_history.txt
+  783  nano command_history.txt 
+  784  history > command_history.txt

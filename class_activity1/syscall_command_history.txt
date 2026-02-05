@@ -1,0 +1,20 @@
+  968  ls
+  969  ./a.out 
+  970  clear
+  971  ls
+  972  rm a.out 
+  973  ls
+  974  nano CopyfileSystemCall.c
+  975  rm CopyfileSystemCall.c 
+  976  nano CopyfileSystemCall.c
+  977  echo "hello world"> result.txt
+  978  gcc CopyfileSystemCall.c -o copysyscall
+  979  ./copysyscall 
+  980  cat result.txt 
+  981  nano SysCall.c
+  982  gcc SysCall.c -o syscall
+  983  ./syscall 
+  984  history 10>syscall_command_history.txt
+  985  ls
+  986  cat syscall_command_history.txt 
+  987  history 20 > syscall_command_history.txt 

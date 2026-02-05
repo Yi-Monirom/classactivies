@@ -1,0 +1,5 @@
+folkchild
+FolkChild.c
+result_folkchild.txt
+Parent process ID: 8010
+Child process completed.

@@ -1,0 +1,10 @@
+ 1001  ls
+ 1002  cd ../class_activity2
+ 1003  ls
+ 1004  ./folkchild >result_folkchild.txt
+ 1005  ls
+ 1006  cat result_folkchild.txt 
+ 1007  history 10>command_used_forkchild.txt
+ 1008  ls
+ 1009  cat command_used_forkchild.txt 
+ 1010  history 10 >command_used_forkchild.txt
