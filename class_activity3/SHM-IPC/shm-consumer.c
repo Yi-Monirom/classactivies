@@ -8,7 +8,7 @@
 int main()
 {
     const int SIZE = 4096;
-    const char *name = "/OS-panha";
+    const char *name = "/OS-MONIROM";
     int shm_fd;
     void *ptr;
 

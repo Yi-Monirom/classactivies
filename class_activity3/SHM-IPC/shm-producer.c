@@ -15,11 +15,11 @@ int main()
     const int SIZE = 4096;
 
     /* name of the shared memory object */
-    const char *name = "/OS-panha";
+    const char *name = "/OS-MONIROM";
 
     /* strings written to shared memory */
     const char *message_0 = "Hello";
-    const char *message_1 = "Panha!";
+    const char *message_1 = "MONIROM!";
 
     /* shared memory file descriptor */
     int shm_fd;
